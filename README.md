@@ -33,3 +33,4 @@ These Explorer chapters are **optional** for teams who want to explore more adva
 |---|---|
 | 1   | [Introducting to Automated Testing](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_TESTS.md) |
 | 2   | [Conversion With Map Array Method](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MAP_METHOD.md) |
+# 1
